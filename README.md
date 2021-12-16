@@ -1,9 +1,15 @@
-# Codealo Web App Template
+# Nuestro Sistema Solar
 
-This is the base template that we can use to create new projects with Codealo.
+Crear una página web interactiva para enseñar sobre el sistema solar a todas las edades.
 
-Give a boilerplate code to our members so that they can go in and start programming without need for something else.
+Página web que muestre el sistema solar en orden que luego muestre la información del planeta como tal.
 
-Instructions to run each of the diferent frameworks should be in a `README.md` file.
+## Objetivos
 
-
+- Presentar de manera ordenada todos los planetas en nuestro sistema solar.
+    - Comenzar con el sol y terminal en Pluto.
+- Al interactuar con un planeta (hacer click o tocar) muestra más información sobre el dentro de la misma pantalla.
+- Agregar animaciones para que los planetas no se vean estaticos.
+    - Esto se puede hacer utilizando Lottie y animaciones SVG.
+- Al visualizar solo un planeta mostrar toda la información de ese planeta, pero facilmente puedes salir de ella.
+    - Opción de ir al planeta anterior o al siguiente.
